@@ -32,4 +32,5 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ### Selected Publication
 
-- (Coming soon.)
+- <em><strong>CVPR 2026</strong></em>. *Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models*.<br>
+  **Ci Zhang**, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan.
