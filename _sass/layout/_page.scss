@@ -190,6 +190,49 @@
   }
 }
 
+.pub-list {
+  margin-top: 1.5em;
+}
+
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.pub-item__image {
+  width: 140px;
+  height: 90px;
+  margin-right: 1.25em;
+  border-radius: $border-radius;
+  background: var(--global-border-color);
+}
+
+.pub-item__content {
+  flex: 1 1 auto;
+}
+
+.pub-item__badge {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  margin-bottom: 0.4em;
+  font-size: $type-size-7;
+  font-weight: bold;
+  color: #fff;
+  background: #a33;
+  border-radius: 999px;
+  text-transform: uppercase;
+}
+
+.pub-item__title {
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+.pub-item__authors {
+  font-size: $type-size-6;
+}
+
 /*
    Social sharing
    ========================================================================== */
