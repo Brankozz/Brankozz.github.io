@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Ci Zhang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### 简介
+## About
 
 I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the **University of Georgia (UGA)**, advised by **Prof. Geng Yuan**.
 
