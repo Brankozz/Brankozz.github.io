@@ -26,24 +26,10 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ### News
 
-<table>
-  <tr>
-    <td><strong>02/2026</strong></td>
-    <td>One paper is accepted to <em>CVPR 2026</em>.</td>
-  </tr>
-  <tr>
-    <td><strong>06/2025</strong></td>
-    <td>One paper is accepted to <em>ICCAD 2025</em> (Best Paper Nominees).</td>
-  </tr>
-  <tr>
-    <td><strong>06/2025</strong></td>
-    <td>One paper is accepted to <em>GLSVLSI 2025</em> (Oral).</td>
-  </tr>
-  <tr>
-    <td><strong>03/2025</strong></td>
-    <td>One paper is accepted to <em>IJCAI 2025</em>.</td>
-  </tr>
-</table>
+02/2026 &nbsp;&nbsp; One paper is accepted to **CVPR 2026**.  
+06/2025 &nbsp;&nbsp; One paper is accepted to **ICCAD 2025** (Best Paper Nominees).  
+06/2025 &nbsp;&nbsp; One paper is accepted to **GLSVLSI 2025** (Oral).  
+03/2025 &nbsp;&nbsp; One paper is accepted to **IJCAI 2025**.
 
 ### Contact
 
