@@ -39,12 +39,14 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <img src="/images/pubs/cvpr2026.png" alt="CVPR 2026 paper figure">
     </div>
     <div class="pub-item__content">
-      <span class="pub-item__badge">CVPR 2026</span>
+      <div class="pub-item__title">
+        Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
+      </div>
       <div class="pub-item__authors">
         <strong>Ci Zhang</strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
       </div>
-      <div class="pub-item__title">
-        Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
+      <div class="pub-item__venue">
+        IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
       </div>
     </div>
   </div>
@@ -56,12 +58,14 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       -->
     </div>
     <div class="pub-item__content">
-      <span class="pub-item__badge">GLSVLSI 2025</span>
+      <div class="pub-item__title">
+        Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer
+      </div>
       <div class="pub-item__authors">
         <strong>Ci Zhang</strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
       </div>
-      <div class="pub-item__title">
-        Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer
+      <div class="pub-item__venue">
+        Great Lakes Symposium on VLSI (GLSVLSI), 2025
       </div>
     </div>
   </div>

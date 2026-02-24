@@ -201,8 +201,8 @@
 }
 
 .pub-item__image {
-  width: 140px;
-  height: 90px;
+  width: 220px;
+  height: 140px;
   margin-right: 1.25em;
   border-radius: $border-radius;
   background: var(--global-border-color);
@@ -239,6 +239,12 @@
 
 .pub-item__authors {
   font-size: $type-size-6;
+}
+
+.pub-item__venue {
+  margin-top: 0.15em;
+  font-size: $type-size-6;
+  font-style: italic;
 }
 
 /*
