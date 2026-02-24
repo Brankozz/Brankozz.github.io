@@ -64,9 +64,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <!-- Optional: add paper image here, e.g.:
-           <img src="/images/pubs/glsvlsi2025.png" alt="GLSVLSI 2025 paper figure">
-      -->
+      <img src="/images/pubs/GLSVLSI.png" alt="GLSVLSI 2025 paper figure">
     </div>
     <div class="pub-item__content">
       <div class="pub-item__title">
@@ -94,9 +92,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <!-- Optional: add paper image here, e.g.:
-           <img src="/images/pubs/physio-missing-data.png" alt="Physiological signals imputation paper figure">
-      -->
+      <img src="/images/pubs/timeseries.png" alt="Physiological time signals imputation paper figure">
     </div>
     <div class="pub-item__content">
       <div class="pub-item__title">
