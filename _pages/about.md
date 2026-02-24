@@ -30,8 +30,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 03/2025 &nbsp;&nbsp; One paper is accepted to <em><strong>IJCAI 2025</strong></em>.
 
-### Contact
+### Selected Publication
 
-The best way to reach me is by email: **zhangci@uga.edu**.
-
-If you would like, you can also reach out for potential collaborations related to LLMs, continual learning, or diffusion models.
+- (Coming soon.)
