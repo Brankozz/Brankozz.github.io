@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-## About
+## Ci Zhang
 
 I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by **Prof. Geng Yuan**.
 
-### Research Interests
+## Research Interests
 
 My research focuses on:
 
@@ -20,7 +20,7 @@ My research focuses on:
 
 More broadly, I am interested in efficient and robust learning algorithms that allow modern generative models to adapt to new data and tasks over time without catastrophic forgetting.
 
-### News
+## News
 
 02/2026 &nbsp;&nbsp; One paper is accepted to <em><strong>CVPR 2026</strong></em>.  
 
@@ -30,7 +30,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 03/2025 &nbsp;&nbsp; One paper is accepted to <em><strong>IJCAI 2025</strong></em>.
 
-### Selected Publication
+## Selected Publication
 
 <div class="pub-list">
 
