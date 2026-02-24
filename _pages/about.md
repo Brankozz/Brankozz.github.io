@@ -48,6 +48,18 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <div class="pub-item__venue">
         IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
       </div>
+      <div class="pub-item__links">
+        <!-- TODO: replace href with actual links -->
+        <a class="pub-btn pub-btn--paper" href="#" target="_blank" rel="noopener">
+          <i class="fas fa-file-alt" aria-hidden="true"></i> Paper
+        </a>
+        <a class="pub-btn pub-btn--github" href="#" target="_blank" rel="noopener">
+          <i class="fab fa-github" aria-hidden="true"></i> GitHub
+        </a>
+        <a class="pub-btn pub-btn--hf" href="#" target="_blank" rel="noopener">
+          🤗 Hugging Face
+        </a>
+      </div>
     </div>
   </div>
 
@@ -67,6 +79,18 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <div class="pub-item__venue">
         Great Lakes Symposium on VLSI (GLSVLSI), 2025
       </div>
+      <div class="pub-item__links">
+        <!-- TODO: replace href with actual links -->
+        <a class="pub-btn pub-btn--paper" href="#" target="_blank" rel="noopener">
+          <i class="fas fa-file-alt" aria-hidden="true"></i> Paper
+        </a>
+        <a class="pub-btn pub-btn--github" href="#" target="_blank" rel="noopener">
+          <i class="fab fa-github" aria-hidden="true"></i> GitHub
+        </a>
+        <a class="pub-btn pub-btn--hf" href="#" target="_blank" rel="noopener">
+          🤗 Hugging Face
+        </a>
+      </div>
     </div>
   </div>
 
@@ -85,6 +109,18 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       </div>
       <div class="pub-item__venue">
         Under Review
+      </div>
+      <div class="pub-item__links">
+        <!-- TODO: replace href with actual links -->
+        <a class="pub-btn pub-btn--paper" href="#" target="_blank" rel="noopener">
+          <i class="fas fa-file-alt" aria-hidden="true"></i> Paper
+        </a>
+        <a class="pub-btn pub-btn--github" href="#" target="_blank" rel="noopener">
+          <i class="fab fa-github" aria-hidden="true"></i> GitHub
+        </a>
+        <a class="pub-btn pub-btn--hf" href="#" target="_blank" rel="noopener">
+          🤗 Hugging Face
+        </a>
       </div>
     </div>
   </div>
