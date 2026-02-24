@@ -26,8 +26,24 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ### News
 
-- Second-year Ph.D. student in CS at UGA.
-- Actively exploring projects at the intersection of LLM continual learning and diffusion models.
+<table>
+  <tr>
+    <td><strong>02/2026</strong></td>
+    <td>One paper is accepted to <em>CVPR 2026</em>.</td>
+  </tr>
+  <tr>
+    <td><strong>06/2025</strong></td>
+    <td>One paper is accepted to <em>ICCAD 2025</em> (Best Paper Nominees).</td>
+  </tr>
+  <tr>
+    <td><strong>06/2025</strong></td>
+    <td>One paper is accepted to <em>GLSVLSI 2025</em> (Oral).</td>
+  </tr>
+  <tr>
+    <td><strong>03/2025</strong></td>
+    <td>One paper is accepted to <em>IJCAI 2025</em>.</td>
+  </tr>
+</table>
 
 ### Contact
 
