@@ -36,9 +36,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <!-- Optional: add paper image here, e.g.:
-           <img src="/images/pubs/cvpr2026.png" alt="CVPR 2026 paper figure">
-      -->
+      <img src="/images/pubs/cvpr2026.png" alt="CVPR 2026 paper figure">
     </div>
     <div class="pub-item__content">
       <span class="pub-item__badge">CVPR 2026</span>
