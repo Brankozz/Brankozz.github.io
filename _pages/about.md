@@ -9,7 +9,7 @@ redirect_from:
 
 ## About
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the **University of Georgia (UGA)**, advised by **Prof. Geng Yuan**.
+I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by **Prof. Geng Yuan**.
 
 ### Research Interests
 
