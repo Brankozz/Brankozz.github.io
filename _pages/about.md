@@ -70,4 +70,23 @@ More broadly, I am interested in efficient and robust learning algorithms that a
     </div>
   </div>
 
+  <div class="pub-item">
+    <div class="pub-item__image">
+      <!-- Optional: add paper image here, e.g.:
+           <img src="/images/pubs/physio-missing-data.png" alt="Physiological signals imputation paper figure">
+      -->
+    </div>
+    <div class="pub-item__content">
+      <div class="pub-item__title">
+        Advancing Missing Data Reconstruction and Imputation for Physiological Time Signals via Mixture of Receptive Fields and Multi-Denoising-Factor Fusion
+      </div>
+      <div class="pub-item__authors">
+        <strong>Ci Zhang</strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
+      </div>
+      <div class="pub-item__venue">
+        Under Review
+      </div>
+    </div>
+  </div>
+
 </div>
