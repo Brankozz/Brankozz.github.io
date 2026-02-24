@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-### About
+### 简介
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the **University of Georgia (UGA)**, advised by **Prof. Geng Yuan**.  
-I am currently based in **Atlanta, Georgia**.
+I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the **University of Georgia (UGA)**, advised by **Prof. Geng Yuan**.
 
 ### Research Interests
 
