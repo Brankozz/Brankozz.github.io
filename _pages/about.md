@@ -34,3 +34,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 - <em><strong>CVPR 2026</strong></em>. *Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models*.<br>
   **Ci Zhang**, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan.
+
+- <em><strong>GLSVLSI 2025</strong></em>. *Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer*.<br>
+  **Ci Zhang**, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan.
