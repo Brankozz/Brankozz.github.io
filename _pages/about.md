@@ -36,7 +36,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <span class="pub-item__image-badge">CVPR'26</span>
       <img src="/images/pubs/cvpr2026.png" alt="CVPR 2026 paper figure">
     </div>
     <div class="pub-item__content">
@@ -65,7 +64,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <span class="pub-item__image-badge">GLSVLSI'25</span>
       <img src="/images/pubs/GLSVLSI.png" alt="GLSVLSI 2025 paper figure">
     </div>
     <div class="pub-item__content">
@@ -94,7 +92,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <span class="pub-item__image-badge">Under Review</span>
       <img src="/images/pubs/timeseries.png" alt="Physiological time signals imputation paper figure">
     </div>
     <div class="pub-item__content">
