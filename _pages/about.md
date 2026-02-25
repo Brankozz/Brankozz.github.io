@@ -9,7 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Prof. Geng Yuan**](https://yuan-geng.com/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
+I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
 
 ## Research Interests
 
