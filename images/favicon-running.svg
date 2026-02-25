@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    @keyframes run {
+      0%, 100% { transform: translateY(0) scaleY(1); }
+      25% { transform: translateY(-1px) scaleY(1.1); }
+      50% { transform: translateY(0) scaleY(1); }
+      75% { transform: translateY(-1px) scaleY(0.95); }
+    }
+    @keyframes legL {
+      0%, 100% { transform: rotate(-8deg); }
+      50% { transform: rotate(12deg); }
+    }
+    @keyframes legR {
+      0%, 100% { transform: rotate(12deg); }
+      50% { transform: rotate(-8deg); }
+    }
+    .body { animation: run 0.4s ease-in-out infinite; transform-origin: center 24px; }
+    .leg-left { animation: legL 0.2s ease-in-out infinite; transform-origin: 14px 22px; }
+    .leg-right { animation: legR 0.2s ease-in-out infinite; transform-origin: 18px 22px; }
+  </style>
+  <!-- ears -->
+  <path fill="#E8B923" stroke="#C9A227" stroke-width="0.8" d="M12 8 L10 2 L14 6 Z"/>
+  <path fill="#E8B923" stroke="#C9A227" stroke-width="0.8" d="M20 8 L22 2 L18 6 Z"/>
+  <!-- body -->
+  <circle class="body" cx="16" cy="18" r="10" fill="#F7DC6F" stroke="#E8B923" stroke-width="1"/>
+  <!-- face -->
+  <ellipse cx="14" cy="16.5" rx="1.5" ry="2" fill="#2C3E50"/>
+  <ellipse cx="18" cy="16.5" rx="1.5" ry="2" fill="#2C3E50"/>
+  <path d="M13 20 Q16 22 19 20" stroke="#2C3E50" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+  <!-- blush -->
+  <ellipse cx="11" cy="18" rx="1.2" ry="0.6" fill="#F1948A" opacity="0.8"/>
+  <ellipse cx="21" cy="18" rx="1.2" ry="0.6" fill="#F1948A" opacity="0.8"/>
+  <!-- legs (running) -->
+  <rect class="leg-left" x="12" y="24" width="3" height="5" rx="1" fill="#E8B923"/>
+  <rect class="leg-right" x="17" y="24" width="3" height="5" rx="1" fill="#E8B923"/>
+  <!-- tail / lightning hint -->
+  <path d="M24 14 L26 18 L24 18 L27 24 L23 18 L24 18 Z" fill="#F4D03F" stroke="#E8B923" stroke-width="0.5"/>
+</svg>
