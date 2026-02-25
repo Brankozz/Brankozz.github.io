@@ -19,7 +19,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Brankozz/Brankozz.github.io"
 
 # ClustrMaps visitor map (optional). Register at https://clustrmaps.com, add your site URL, then paste the site ID from the embed code here to show the map in the footer.
-clustrmaps_id            : "" # e.g. "1c67i" — leave blank to hide
+clustrmaps_id            : "OIIpvvCKdvVY_vRVhUBnanBQuW8W6MUn6SFePRoq1BI"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
