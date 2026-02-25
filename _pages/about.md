@@ -15,7 +15,7 @@ I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**Uni
 
 My research focuses on:
 
-- **Continual learning for large language models (LLMs)**
+- **Continual learning for MLLM/LLM**
 - **Diffusion models** and their applications
 - **Efficient VLA**
 
