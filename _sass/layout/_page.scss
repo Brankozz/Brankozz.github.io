@@ -214,6 +214,7 @@
 }
 
 .pub-item__image {
+  position: relative;
   flex-shrink: 0;
   width: 360px;
   min-width: 360px;
@@ -262,6 +263,21 @@
     display: block;
     vertical-align: top;
   }
+}
+
+.pub-item__image-badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0.2em 0.65em;
+  font-size: $type-size-7;
+  font-weight: 700;
+  color: #fff;
+  background: #c00;
+  border-radius: 4px 0 4px 0;
+  z-index: 1;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
 }
 
 .pub-item__content {
