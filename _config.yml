@@ -29,7 +29,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ci Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Second-year PhD student in Computer Science at the University of Georgia (UGA), advised by Prof. Geng Yuan. Research interests in continual learning for large language models and diffusion models."
+  bio              : "Second-year PhD student in Computer Science at the University of Georgia (UGA), advised by Prof. Geng Yuan."
   location         : "Atlanta, Georgia"
   employer         : "<a href=\"https://www.uga.edu/\">University of Georgia</a>"
   uri              : # URL
