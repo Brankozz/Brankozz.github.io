@@ -336,7 +336,9 @@
   font-size: $type-size-5;
 
   .pub-author-me {
+    text-decoration-line: underline;
     text-decoration-thickness: 3px;
+    text-underline-offset: 2px;
   }
 }
 
