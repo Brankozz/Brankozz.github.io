@@ -31,7 +31,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Second-year PhD student in Computer Science at the University of Georgia (UGA), advised by Prof. Geng Yuan."
   location         : "Atlanta, Georgia"
-  employer         : "<a href=\"https://www.uga.edu/\">University of Georgia</a>"
+  employer         : "University of Georgia"
+  employer_url     : "https://www.uga.edu/"
   uri              : # URL
   email            : "zhangci@uga.edu" 
 
