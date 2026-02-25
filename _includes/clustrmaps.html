@@ -1,0 +1,11 @@
+{% comment %}
+  ClustrMaps visitor map. Set clustrmaps_id in _config.yml after registering at
+  https://clustrmaps.com and adding your site (e.g. https://brankozz.github.io).
+  You'll get a site ID from the "Create Your Widget" / embed code.
+{% endcomment %}
+{% if site.clustrmaps_id %}
+<div class="page__footer-clustrmaps">
+  <p class="page__footer-clustrmaps-title">Visitor map</p>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=a&t=n"></script>
+</div>
+{% endif %}
