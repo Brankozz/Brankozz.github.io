@@ -50,10 +50,10 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
       </div>
       <div class="pub-item__links">
-        <a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2503.18180" target="_blank" rel="noopener">
+        <a class="pub-btn pub-btn--paper" href="#" target="_blank" rel="noopener">
           <i class="fas fa-file-alt" aria-hidden="true"></i> Paper
         </a>
-        <a class="pub-btn pub-btn--github" href="#" target="_blank" rel="noopener">
+        <a class="pub-btn pub-btn--github" href="https://github.com/Brankozz/Roots-Beneath-the-Cut" target="_blank" rel="noopener">
           <i class="fab fa-github" aria-hidden="true"></i> GitHub
         </a>
         <a class="pub-btn pub-btn--hf" href="#" target="_blank" rel="noopener">
