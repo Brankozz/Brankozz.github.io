@@ -17,6 +17,7 @@ My research focuses on:
 
 - **Continual learning for large language models (LLMs)**
 - **Diffusion models** and their applications
+- **Efficient VLA**
 
 More broadly, I am interested in efficient and robust learning algorithms that allow modern generative models to adapt to new data and tasks over time without catastrophic forgetting.
 
