@@ -199,6 +199,12 @@
   align-items: stretch;
   margin-bottom: 1.5em;
   height: 210px;
+
+  @include breakpoint(max-width $medium) {
+    flex-direction: column;
+    height: auto;
+    align-items: stretch;
+  }
 }
 
 .pub-item__image {
@@ -216,6 +222,17 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   overflow: hidden;
   box-sizing: border-box;
+
+  @include breakpoint(max-width $medium) {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    height: auto;
+    min-height: 0;
+    max-height: 220px;
+    margin-right: 0;
+    margin-bottom: 0.75em;
+  }
 
   img {
     width: 100% !important;
@@ -239,6 +256,13 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
+  @include breakpoint(max-width $medium) {
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    overflow: visible;
+  }
 }
 
 .pub-item__badge {
