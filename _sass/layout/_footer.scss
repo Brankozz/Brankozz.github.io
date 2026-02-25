@@ -68,9 +68,21 @@
     text-transform: uppercase;
   }
 
-  #clustrmaps,
-  .clustrmaps-wrap {
-    max-width: 100%;
+  .page__footer-clustrmaps-map {
+    max-width: 360px;
+    max-height: 220px;
+    overflow: hidden;
+    border-radius: 4px;
+
+    iframe,
+    canvas,
+    > div {
+      max-width: 100% !important;
+      max-height: 220px !important;
+      width: 100% !important;
+      height: 220px !important;
+      object-fit: contain;
+    }
   }
 }
 
