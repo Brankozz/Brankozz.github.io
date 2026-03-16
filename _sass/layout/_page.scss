@@ -335,8 +335,8 @@
 .pub-item__authors {
   font-size: $type-size-5;
 
-  .pub-author-me {
-    text-decoration: none;
+  u.pub-author-me {
+    text-decoration: none !important;
     border-bottom: 1px solid currentColor;
     padding-bottom: 1px;
   }
