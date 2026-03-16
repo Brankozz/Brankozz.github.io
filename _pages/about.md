@@ -45,7 +45,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
       </div>
       <div class="pub-item__authors">
-        <strong><em><u class="pub-author-me">Ci Zhang</u></em></strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
+        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
       </div>
       <div class="pub-item__venue">
         IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
@@ -74,7 +74,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer
       </div>
       <div class="pub-item__authors">
-        <strong><em><u class="pub-author-me">Ci Zhang</u></em></strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
+        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
       </div>
       <div class="pub-item__venue">
         Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong> <span style="color:#c00;"><strong>(Oral)</strong></span>, 2025
@@ -103,7 +103,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         Advancing Missing Data Reconstruction and Imputation for Physiological Time Signals via Mixture of Receptive Fields and Multi-Denoising-Factor Fusion
       </div>
       <div class="pub-item__authors">
-        <strong><em><u class="pub-author-me">Ci Zhang</u></em></strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
+        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
       </div>
       <div class="pub-item__venue">
         <strong>Under Review</strong>
