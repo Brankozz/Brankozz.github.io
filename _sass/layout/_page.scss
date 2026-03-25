@@ -330,10 +330,12 @@
 .pub-item__title {
   font-size: $type-size-5;
   font-weight: bold;
+  color: rgba(0, 0, 0, 0.65);
 }
 
 .pub-item__authors {
   font-size: $type-size-5;
+  color: rgba(0, 0, 0, 0.65);
 
   u.pub-author-me {
     text-decoration: none !important;
@@ -344,7 +346,7 @@
 
 .pub-item__venue {
   font-size: $type-size-5;
-  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .pub-item__links {
