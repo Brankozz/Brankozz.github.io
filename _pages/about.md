@@ -41,14 +41,14 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <img src="/images/pubs/cvpr2026.png" alt="CVPR 2026 paper figure">
     </div>
     <div class="pub-item__content">
+      <div class="pub-item__venue">
+        <em>(CVPR 2026), The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</em>
+      </div>
       <div class="pub-item__title">
         Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models
       </div>
       <div class="pub-item__authors">
-        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
-      </div>
-      <div class="pub-item__venue">
-        <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</em> <strong>(CVPR)</strong>. (2026).
+        <strong>Ci Zhang</strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2603.06640" target="_blank" rel="noopener">
@@ -70,14 +70,14 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <img src="/images/pubs/GLSVLSI.png" alt="GLSVLSI 2025 paper figure">
     </div>
     <div class="pub-item__content">
+      <div class="pub-item__venue">
+        <em>(GLSVLSI 2025), Great Lakes Symposium on VLSI 2025</em> <span style="color:#c00;"><strong>(Oral)</strong></span>
+      </div>
       <div class="pub-item__title">
         Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer
       </div>
       <div class="pub-item__authors">
-        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
-      </div>
-      <div class="pub-item__venue">
-        <em>Great Lakes Symposium on VLSI 2025</em> <strong>(GLSVLSI)</strong> <span style="color:#c00;"><strong>(Oral)</strong></span>. (2025).
+        <strong>Ci Zhang</strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://dl.acm.org/doi/full/10.1145/3716368.3735273" target="_blank" rel="noopener">
@@ -99,14 +99,14 @@ More broadly, I am interested in efficient and robust learning algorithms that a
       <img src="/images/pubs/timeseries.png" alt="Physiological time signals imputation paper figure">
     </div>
     <div class="pub-item__content">
+      <div class="pub-item__venue">
+        <strong>Under Review</strong>
+      </div>
       <div class="pub-item__title">
         Advancing Missing Data Reconstruction and Imputation for Physiological Time Signals via Mixture of Receptive Fields and Multi-Denoising-Factor Fusion
       </div>
       <div class="pub-item__authors">
-        <strong><u class="pub-author-me">Ci Zhang</u></strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
-      </div>
-      <div class="pub-item__venue">
-        <strong>Under Review</strong>
+        <strong>Ci Zhang</strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://arxiv.org/pdf/2512.07873" target="_blank" rel="noopener">
