@@ -48,7 +48,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         <strong>Ci Zhang</strong>, Zhaojun Ding, Chence Yang, Jun Liu, Xiaoming Zhai, Shaoyi Huang, Beiwen Li, Xiaolong Ma, Jin Lu, Geng Yuan
       </div>
       <div class="pub-item__venue">
-        <em><strong>(CVPR 2026)</strong>, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</em>
+        <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026, <strong>(CVPR 2026)</strong></em>
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://arxiv.org/abs/2603.06640" target="_blank" rel="noopener">
@@ -77,7 +77,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         <strong>Ci Zhang</strong>, Chence Yang, Qitao Tan, Jun Liu, Ao Li, Yanzhi Wang, Jin Lu, Jinhui Wang, Geng Yuan
       </div>
       <div class="pub-item__venue">
-        <em><strong>(GLSVLSI 2025)</strong>, Great Lakes Symposium on VLSI 2025</em> <span style="color:#c00;"><strong>(Oral)</strong></span>
+        <em>Great Lakes Symposium on VLSI 2025, <strong>(GLSVLSI 2025)</strong></em> <span style="color:#c00;"><strong>(Oral)</strong></span>
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://dl.acm.org/doi/full/10.1145/3716368.3735273" target="_blank" rel="noopener">
