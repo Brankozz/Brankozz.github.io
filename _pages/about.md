@@ -23,6 +23,8 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ## News
 
+05/2026 &nbsp;&nbsp; Visiting research on Robotic Agent at <strong>NEU</strong> under [<strong>Yanzhi Wang</strong>](https://www.yanzhiwang.com/).  
+
 02/2026 &nbsp;&nbsp; One paper is accepted to <em><strong>CVPR 2026</strong></em>.  
 
 06/2025 &nbsp;&nbsp; One paper is accepted to <em><strong>ICCAD 2025</strong></em> <strong>(</strong><span style="color:#c00;"><em><strong>Best Paper Nominees</strong></em></span><strong>)</strong>.  
