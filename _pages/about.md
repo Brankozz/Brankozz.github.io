@@ -23,7 +23,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ## News
 
-05/2026 &nbsp;&nbsp; Visiting research on Robotic Agent at <strong>NEU</strong> under [<strong>Yanzhi Wang</strong>](https://www.yanzhiwang.com/).  
+05/2026 &nbsp;&nbsp; Visiting research on Robotic Agent at <strong>Northeastern University</strong> under <a href="https://www.yanzhiwang.com/" style="text-decoration: none;"><strong>Yanzhi Wang</strong></a>.  
 
 02/2026 &nbsp;&nbsp; One paper is accepted to <em><strong>CVPR 2026</strong></em>.  
 
