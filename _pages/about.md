@@ -9,7 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/) and Prof. [**Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en) of [**Northeastern University**](https://www.northeastern.edu/) at Boston. Before that, I got my M.S. degree at the Ohio State University, supervised by [**Rongjun Qin**](https://u.osu.edu/qin.324/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
+I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/) and Prof. [**Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en) of [**Northeastern University**](https://www.northeastern.edu/) at Boston. Before that, I got my M.S. degree at [**the Ohio State University**](https://www.osu.edu/), supervised by [**Rongjun Qin**](https://u.osu.edu/qin.324/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
 
 ## Research Interests
 
@@ -124,7 +124,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
   <div class="pub-item">
     <div class="pub-item__image">
-      <span class="pub-item__image-badge">Under Review</span>
+      <span class="pub-item__image-badge">arXiv</span>
       <img src="/images/pubs/timeseries.png" alt="Physiological time signals imputation paper figure">
     </div>
     <div class="pub-item__content">
@@ -135,7 +135,7 @@ More broadly, I am interested in efficient and robust learning algorithms that a
         <strong>Ci Zhang</strong>, Huayu Li, Changdi Yang, Yanzhi Wang, Xiaolong Ma, Jin Lu, Ao Li, Geng Yuan
       </div>
       <div class="pub-item__venue">
-        <strong>Under Review</strong>
+        <em>arXiv Preprint</em>
       </div>
       <div class="pub-item__links">
         <a class="pub-btn pub-btn--paper" href="https://arxiv.org/pdf/2512.07873" target="_blank" rel="noopener">
