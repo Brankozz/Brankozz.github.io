@@ -9,7 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/). Before that, I got my M.S. degree at the Ohio State University, supervised by [**Rongjun Qin**](https://u.osu.edu/qin.324/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
+I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/) and Prof. [**Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en) of Northeastern University at Boston. Before that, I got my M.S. degree at the Ohio State University, supervised by [**Rongjun Qin**](https://u.osu.edu/qin.324/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
 
 ## Research Interests
 
@@ -23,8 +23,6 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 
 ## News
 
-05/2026 &nbsp;&nbsp; Visiting research on Robotic Agent at <strong>Northeastern University</strong> under <a href="https://www.yanzhiwang.com/" style="text-decoration: none;"><strong>Yanzhi Wang</strong></a>.  
-
 02/2026 &nbsp;&nbsp; One paper is accepted to <em><strong>CVPR 2026</strong></em>.  
 
 06/2025 &nbsp;&nbsp; One paper is accepted to <em><strong>ICCAD 2025</strong></em> <strong>(</strong><span style="color:#c00;"><em><strong>Best Paper Nominees</strong></em></span><strong>)</strong>.  
@@ -36,6 +34,35 @@ More broadly, I am interested in efficient and robust learning algorithms that a
 ## Selected Publication
 
 <div class="pub-list">
+
+  <div class="pub-item">
+    <div class="pub-item__image">
+      <span class="pub-item__image-badge">arXiv</span>
+      <img src="/images/pubs/cirra.png" alt="CIRRA paper figure">
+    </div>
+    <div class="pub-item__content">
+      <div class="pub-item__title">
+        CIRRA: Dual-Level Continual Instruction Reconciliation with Ongoing Execution for Embodied Robot Agents in Interactive Household Tasks
+      </div>
+      <div class="pub-item__authors">
+        <strong>Ci Zhang</strong>, Enfu Nan, Arman Akbari, Lin Zhao, Li Wang, Chen Wang, Weiwei Chen, Yanzhi Wang, Geng Yuan
+      </div>
+      <div class="pub-item__venue">
+        <em>arXiv Preprint</em>
+      </div>
+      <div class="pub-item__links">
+        <a class="pub-btn pub-btn--paper" href="#" target="_blank" rel="noopener">
+          <i class="fas fa-file-alt" aria-hidden="true"></i> Paper
+        </a>
+        <a class="pub-btn pub-btn--github" href="#" target="_blank" rel="noopener">
+          <i class="fab fa-github" aria-hidden="true"></i> GitHub
+        </a>
+        <a class="pub-btn pub-btn--hf" href="#" target="_blank" rel="noopener">
+          🤗 Hugging Face
+        </a>
+      </div>
+    </div>
+  </div>
 
   <div class="pub-item">
     <div class="pub-item__image">
