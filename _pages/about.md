@@ -9,17 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a second-year Ph.D. student in Computer Science at the [**University of Georgia (UGA)**](https://www.uga.edu/), advised by [**Geng Yuan**](https://yuan-geng.com/) and Prof. [**Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en) of [**Northeastern University**](https://www.northeastern.edu/) at Boston. Before that, I got my M.S. degree at [**the Ohio State University**](https://www.osu.edu/), supervised by [**Rongjun Qin**](https://u.osu.edu/qin.324/). My research interests include MLLM/LLM and generative models. Currently, I am focusing on diffusion models and continual learning on MLLM/LLM. Feel free to [**contact me**](mailto:zhangci@uga.edu) if my work aligns with your team's goals!
-
-## Research Interests
-
-My research focuses on:
-
-- **Continual learning for MLLM/LLM**
-- **Diffusion models** and their applications
-- **Efficient VLA**
-
-More broadly, I am interested in efficient and robust learning algorithms that allow modern generative models to adapt to new data and tasks over time without catastrophic forgetting.
+I am **Ci Zhang**, a third-year Ph.D. student in Computer Science at the [**University of Georgia**](https://www.uga.edu/). My research focuses on World Models, World Action Models, Agents, and their applications on robots.
 
 ## News
 
