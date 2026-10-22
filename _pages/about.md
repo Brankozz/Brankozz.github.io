@@ -9,7 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a Ph.D. student in Computer Science at the [**University of Georgia**](https://www.uga.edu/). My research focuses on World Models, World Action Models, Agents, and their applications on robots.
+I am **Ci Zhang**, a PhD student in Computer Science at the [**University of Georgia**](https://www.uga.edu/). My research focuses on World Models, World Action Models, Agents, and their applications on robots.
 
 ## News
 
