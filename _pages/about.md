@@ -9,7 +9,7 @@ redirect_from:
 
 ## Ci Zhang
 
-I am **Ci Zhang**, a PhD student in Computer Science at the [**University of Georgia**](https://www.uga.edu/), advised by [**Prof. Geng Yuan**](https://scholar.google.com/citations?user=tBIAgtgAAAAJ&hl=en). I also work closely with [**Prof. Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en). My research focuses on World Models, World Action Models, Agents, and their applications on robots.
+I am **Ci Zhang**, a PhD student in Computer Science at the [**University of Georgia**](https://www.uga.edu/), advised by [**Geng Yuan**](https://scholar.google.com/citations?user=tBIAgtgAAAAJ&hl=en). I also work closely with [**Prof. Yanzhi Wang**](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en). My research focuses on World Models, World Action Models, Agents, and their applications on robots.
 
 ## News
 
